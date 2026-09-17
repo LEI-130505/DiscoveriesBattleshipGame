@@ -12,3 +12,4 @@ Basic academic version of Battleship game to build upon.
 
 ## REGRAS DO JOGO
 ### 1.
+### PRIMEIRA E MAIS IMPORTANTE!
