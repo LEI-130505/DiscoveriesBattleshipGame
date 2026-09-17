@@ -4,7 +4,7 @@ import iscteiul.ista.battleship.Fleet;
 import iscteiul.ista.battleship.Tasks;
 
 /**
- * @author britoeabreu
+ * @author Mihaita Ferent
  * @author adrianolopes
  * @author miguelgoulao
  */
@@ -19,5 +19,6 @@ public class App
         Tasks.taskB();
         //	Tasks.taskC();
         //	Tasks.taskD();
+        //ola
     }
 }
