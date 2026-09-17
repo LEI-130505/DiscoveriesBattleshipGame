@@ -11,3 +11,4 @@ Basic academic version of Battleship game to build upon.
 |  LEI  | 130505 | Mihaita Ferent  |
 
 ## REGRAS DO JOGO
+### PRIMEIRA E MAIS IMPORTANTE!
